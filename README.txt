@@ -1,0 +1,1 @@
+java --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -jar "C:\Users\user_\Documents\NetBeansProjects\Batik Nadril\dist\Batik_Nadril.jar"
